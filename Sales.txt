@@ -1,0 +1,7 @@
+   Name           Email      Phone Pdt.Id Pdt. Type Pdt. Name Quantity Amount  \
+0                                                                               
+1  yash  yash@gmail.com  899795905    NaN   biscuit      oreo       50   1500   
+
+         Date      Time Pdt. Id  
+0                           NaN  
+1  24-12-2023  16:11:34    1002  
